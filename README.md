@@ -13,5 +13,3 @@ Zarzadzane przez `uv` (Python 3.12, patrz `.python-version`).
 
 ```bash
 uv sync
-
-
