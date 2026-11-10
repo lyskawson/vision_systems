@@ -16,3 +16,7 @@ wheels/
 .DS_Store
 
 wyniki/
+
+# Downloaded datasets
+/labs/Lab3/casting/
+/labs/Lab3/casting.zip
